@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Editor/static/css/main.afb00eda.chunk.css",
+    "main.js": "/Simple-Editor/static/js/main.2e332bff.chunk.js",
+    "main.js.map": "/Simple-Editor/static/js/main.2e332bff.chunk.js.map",
+    "runtime-main.js": "/Simple-Editor/static/js/runtime-main.9c16bc3b.js",
+    "runtime-main.js.map": "/Simple-Editor/static/js/runtime-main.9c16bc3b.js.map",
+    "static/js/2.6ddb03fd.chunk.js": "/Simple-Editor/static/js/2.6ddb03fd.chunk.js",
+    "static/js/2.6ddb03fd.chunk.js.map": "/Simple-Editor/static/js/2.6ddb03fd.chunk.js.map",
+    "static/js/3.74050d98.chunk.js": "/Simple-Editor/static/js/3.74050d98.chunk.js",
+    "static/js/3.74050d98.chunk.js.map": "/Simple-Editor/static/js/3.74050d98.chunk.js.map",
+    "index.html": "/Simple-Editor/index.html",
+    "static/css/main.afb00eda.chunk.css.map": "/Simple-Editor/static/css/main.afb00eda.chunk.css.map",
+    "static/js/2.6ddb03fd.chunk.js.LICENSE.txt": "/Simple-Editor/static/js/2.6ddb03fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c16bc3b.js",
+    "static/js/2.6ddb03fd.chunk.js",
+    "static/css/main.afb00eda.chunk.css",
+    "static/js/main.2e332bff.chunk.js"
+  ]
+}
